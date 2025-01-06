@@ -4,7 +4,8 @@ An alternative interface for the photo restoration program “Bringing-Old-Photo
       pip install numpy opencv-python PySimpleGUI
 #
 If you want the unsubscribed version of PySimpleGUI, use this command: 
-  python -m pip install PySimpleGUI==4.60.5.0
+
+       python -m pip install PySimpleGUI==4.60.5.0
 
 #
 [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
